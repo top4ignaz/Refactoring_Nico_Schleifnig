@@ -1,5 +1,5 @@
-package java;
-class Rental {
+package main;
+public class Rental {
     private Movie movie;
     private int daysRented;
     public Rental(Movie newmovie, int newdaysRented) {
